@@ -7,6 +7,6 @@ Run all cells
 
 Output of last cell is our LTV
 
-LTV = 8.8952
+LTV = 9.340
 
 If you have any troubles contact analyst via e-mail - dima.chornyy@gmail.com
