@@ -1,7 +1,7 @@
 # int2021_task2
 Download repository
 
-Open .ipynb file (if you don\`t have Jupiter open with google colab, but make sure that data file reads correclty)
+Open .ipynb file (if you don\`t have Jupiter open with google colab, but make sure that data file reads correctly)
 
 Run all cells
 
